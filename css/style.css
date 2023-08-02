@@ -1,0 +1,32 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1
+{
+    color: red;
+    border: 3px solid #000;
+}
+.container
+{
+    border: 3px solid red;
+}
+.left_Side
+{
+    border: 3px solid yellowgreen;
+}
+.Perfil
+{
+    border: 3px solid #0400ff;
+}
+.imgBx
+{
+    border: 3px solid #ff5100;
+}
+img
+{
+    border: 3px solid red;
+    margin: 5px;
+}
